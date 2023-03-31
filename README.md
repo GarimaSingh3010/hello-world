@@ -11,3 +11,7 @@
 This is an example of a GitHub repository.
 
 Nice class!!!
+
+Great work.
+
+some more changes.
